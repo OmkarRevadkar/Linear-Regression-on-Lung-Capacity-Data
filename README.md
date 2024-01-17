@@ -4,7 +4,7 @@ Following steps are involved:
 1. Import the necessary libraries in our Jupyter notebook.
 2. Load the dataset.
 3. Perform Data Cleaning -- fill missing values, standardization, normalization, etc.
-4. Random Sampling with splitting data into train and test data.
+4. Random Sampling by splitting data into train and test data.
 5. Build the model with linear regression on train -- fit on train.
 6. Predict on test. 
 7. Evaluate the model using various parameters.
